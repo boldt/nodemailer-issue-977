@@ -1,0 +1,8 @@
+{
+  "name": "nodemailer-issue-977",
+  "version": "1.0.0",
+  "author": "Dennis Boldt",
+  "dependencies": {
+    "nodemailer": "^5.1.1"
+  }
+}
